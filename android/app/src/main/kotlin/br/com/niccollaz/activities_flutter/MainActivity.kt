@@ -1,0 +1,6 @@
+package br.com.niccollaz.activities_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
